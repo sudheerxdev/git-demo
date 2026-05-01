@@ -5,10 +5,7 @@ public class BasicCalculator {
     public static void main(String[] args) {
 
         double num1, num2;
-        Scanner sc = new Scanner(System.in);
-
-        System.out.println("Enter the numbers: newbranch");
-        num1 = sc.nextDouble();
+        ScannextDouble();
         num2 = sc.nextDouble();
         num2 = sc.nextDouble();
 

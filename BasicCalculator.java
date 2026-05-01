@@ -4,9 +4,7 @@ public class BasicCalculator {
 
     public static void main(String[] args) {
 
-        double num1, num2;
-        Scanner sc = new Scanner(System.in);
-
+        double num1, num2
 
         System.out.println("Enter the numbers")
        

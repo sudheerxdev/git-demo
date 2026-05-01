@@ -7,8 +7,9 @@ public class BasicCalculator {
         double num1, num2;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the numbers:");
+        System.out.println("Enter the numbers: master");
         num1 = sc.nextDouble();
+        num2 = sc.nextDouble();
         num2 = sc.nextDouble();
 
         System.out.println("Enter the operator (+, -, *, /):");

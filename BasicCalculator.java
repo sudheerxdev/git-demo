@@ -6,16 +6,7 @@ public class BasicCalculator {
 
         double num1, num2;
         ScannextDouble();
-        num2 = sc.nextDouble();
-        num2 = sc.nextDouble();
-
-        System.out.println("Enter the operator (+, -, *, /):");
-        char operator = sc.next().charAt(0);
-
-        double result;
-        switch (operator) {
-            case '+':
-                result = num1 + num2;
+        num2 = sc.
                 break;
 
             case '-':

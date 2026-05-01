@@ -6,27 +6,10 @@ public class BasicCalculator {
 
         double num1, num2;
         Scanner sc = new Scanner(System.in);
-
-
-        System.out.println("Enter the numbers")
-       
-
-        num1 = sc.nextDouble();
-        num2 = sc.nextDouble();
-        num2 = sc.nextDouble();
-
-        System.out.println("Enter the operator (+, -, *, /):");
+erator (+, -, *, /):");
         char operator = sc.next().charAt(0);
 
-        double result;
-        switch (operator) {
-            case '+':
-                result = num1 + num2;
-                break;
-
-            case '-':
-                result = num1 - num2;
-                break;
+        dou
 
             case '*':
                 result = num1 * num2;
